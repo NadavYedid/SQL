@@ -1,4 +1,3 @@
-# Nadav Yedid
 # Q1 - The cost of each line:
 SELECT orderNumber, priceEach * quantityOrdered AS Line_Cost
 FROM orderdetails;
